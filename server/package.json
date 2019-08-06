@@ -8,5 +8,10 @@
     "start": "node server.js"
   },
   "author": "Brian Chu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "package.json": "^2.0.1"
+  }
 }

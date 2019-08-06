@@ -1,1 +1,11 @@
-[{"name": "Bob"}, {"name": "Joe"}, {"name": "John"}]
+[
+    {
+        "name": "Bob"
+    },
+    {
+        "name": "Joe"
+    },
+    {
+        "name": "John"
+    }
+]
